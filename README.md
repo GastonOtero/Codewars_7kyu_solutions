@@ -1,2 +1,2 @@
 # Codewars_7kyu_solutions
-My solutions for 7kyu katas from Codewars
+My solutions to Codewars 7kyu katas (in javascript)
